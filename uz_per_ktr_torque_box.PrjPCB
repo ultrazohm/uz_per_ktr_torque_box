@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Default
 
 [Preferences]
 PrefsVaultGUID=
@@ -67,6 +68,40 @@ GenerateClassCluster=0
 DocumentUniqueId=EUTONNES
 
 [Document2]
+DocumentPath=uz_per_ktr_torque_box.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GZATAJRJ
+
+[Document3]
+DocumentPath=TopSheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FTWUYDRC
+
+[Document4]
 DocumentPath=uz_per_ktr_torque_box.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,24 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
-DocumentPath=uz_per_ktr_torque_box.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GZATAJRJ
-
-[Document4]
+[Document5]
 DocumentPath=uz_OutputJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,9 +140,19 @@ UniqueId=71DFC42C-576D-41D2-8626-2BD91891E07E
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
-Variation1=Designator=R1|UniqueId=\LGUSEKVC\ZVDZXGAK|Kind=1|AlternatePart=
-ParamVariationCount=0
+VariationCount=3
+Variation1=Designator=R1|UniqueId=\TYDJUQFT|Kind=0|AlternatePart=
+ParamVariation1=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator1=R1
+ParamVariation2=ParameterName=Comment|VariantValue==Value
+ParamDesignator2=R1
+Variation2=Designator=C1|UniqueId=\IWQOPCPC|Kind=1|AlternatePart=
+ParamVariation3=ParameterName=Comment|VariantValue==Value
+ParamDesignator3=C1
+Variation3=Designator=C2|UniqueId=\JTUZMIWG|Kind=1|AlternatePart=
+ParamVariation4=ParameterName=Comment|VariantValue==Value
+ParamDesignator4=C2
+ParamVariationCount=4
 
 [Parameter1]
 Name=Author
@@ -1122,7 +1150,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=1
+SortOrder=3
 SortLocation=0
 ReplaceSubparts=0
 MatchParameter1=Comment
