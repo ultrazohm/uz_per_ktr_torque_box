@@ -1,2 +1,2 @@
-Record=TopLevelDocument|FileName=TopSheet.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=X1|SchDesignator=X1|FileName=DigitalCarrierJack.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=DigitalCarrierJack.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=TopSheet.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=U_uz_per_ktr_torque_box|SchDesignator=U_uz_per_ktr_torque_box|FileName=uz_per_ktr_torque_box.SchDoc|SheetNumber=1|SymbolType=Normal|RawFileName=uz_per_ktr_torque_box.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
