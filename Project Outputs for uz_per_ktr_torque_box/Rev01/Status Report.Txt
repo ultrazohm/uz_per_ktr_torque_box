@@ -1,0 +1,10 @@
+Output: Pick_Place_JLC
+Type  : Pick Place
+From  : Variant [Default] of PCB Document [uz_per_ktr_torque_box.PcbDoc]
+   Generated File[Pick Place for uz_per_ktr_torque_box(Default).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:27:59 On 20.06.2025

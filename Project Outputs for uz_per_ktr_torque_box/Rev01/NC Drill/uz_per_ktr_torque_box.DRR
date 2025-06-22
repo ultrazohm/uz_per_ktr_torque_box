@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: uz_per_ktr_torque_box.PcbDoc   20.06.2025  18:27:47
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : uz_per_ktr_torque_box.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             6         PTH        5.43inch (138.04mm)
+T2      39mil (0.99mm)                                            Round             4         PTH        0.57inch (14.50mm)
+T3      41mil (1.05mm)                                            Round             15        PTH        1.30inch (33.05mm)
+T4      45mil (1.15mm)                                            Round             15        PTH        1.53inch (38.90mm)
+T5      51mil (1.3mm)                                             Round             4         PTH        0.67inch (17.01mm)
+T6      126mil (3.2mm)                                            Round             2         PTH        0.98inch (24.99mm)
+T7      128mil (3.25mm)                                           Round             2         PTH        1.31inch (33.32mm)
+T8      94mil (2.4mm)           +/-3mil (0.076mm)                 Round             4         NPTH       0.96inch (24.50mm)
+T9      134mil (3.4mm)          +/-3mil (0.076mm)                 Round             4         NPTH       6.46inch (163.99mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              56
+
+Total Processing Time (hh:mm:ss) : 00:00:00
